@@ -1,32 +1,28 @@
 # 🎬 Netflix UI Clone
 
-A responsive Netflix landing page clone built using **HTML** and **CSS**. This project replicates the look and feel of the official Netflix website, showcasing various sections like hero banner, TV preview with embedded video, download section, and responsive design elements.
+A responsive Netflix landing page clone built using **HTML** and **CSS**. This project replicates the look and feel of the official Netflix website, showcasing sections like hero banner, TV preview with embedded video, download screen, and modern responsive styling.
 
 ## 🌐 Live Demo
 
-[🔗 View Live Demo](https://your-live-demo-link.com)  
-*(Replace the above link with your actual deployed URL — GitHub Pages, Vercel, or Netlify)*
-
----
-
-## 📸 Screenshots
-
-| Hero Section | TV Preview | Download Section |
-|--------------|------------|------------------|
-| ![Hero](assets/images/bg.jpg) | ![TV](assets/images/tv.png) | ![Download](assets/images/download.JPG) |
+[🔗 View Live Demo](https://daniish-ansarii.github.io/Netflix-UI-Clone)  
+*(Deployed with GitHub Pages)*
 
 ---
 
 ## 🛠️ Features
 
 - Netflix-inspired responsive UI
-- Background hero section with CTA
-- Embedded autoplay videos on devices
-- Download mockup screen with image
-- Clean CSS styling using Poppins & Martel Sans fonts
-- Mobile-first responsive layout
+- Background hero with call-to-action
+- Embedded autoplay videos in TV frames
+- Download section visuals with device mockup
+- CSS-only animation & layout styling
+- Uses Poppins & Martel Sans fonts
 
 ---
+
+## 📁 Project Structure
+
+
 
 ## 📁 Project Structure
 
@@ -43,3 +39,41 @@ A responsive Netflix landing page clone built using **HTML** and **CSS**. This p
 │ │ └── video.m4v
 └── assets/title-logo.png
 
+
+---
+
+## 💻 Getting Started
+
+### Clone the repo
+
+```bash
+git clone https://github.com/daniish-ansarii/Netflix-UI-Clone.git
+cd Netflix-UI-Clone
+
+
+Open in Browser
+Just open the index.html file in your preferred browser.
+
+⚙️ Tech Stack
+
+HTML5
+CSS3
+Google Fonts
+Pure Frontend (No JavaScript)
+🚧 Challenges Faced
+
+Syncing video frame with TV mockup image
+Proper z-index layering for content vs background
+Making layout responsive across devices
+🙌 Acknowledgements
+
+Netflix India for UI inspiration
+CodeWithHarry for frontend tutorials
+📜 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Md Danish
+www.linkedin.com/in/daniish-ansarii 
